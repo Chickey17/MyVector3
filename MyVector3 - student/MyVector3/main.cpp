@@ -1,8 +1,8 @@
 /// <summary>
 /// Craig Hickey
 /// estimate 6 hours
-/// time spent
-/// issues not negative is done correctly I think and angle between maybe wrong I'm not sure
+/// time spent 5 hours 30 mins
+/// issues:Not sure if  not negative is done correctly I think and angle between maybe wrong I'm not sure as I got the answer that the programm output also got different answers
 /// 
 /// </summary>
 #ifdef _DEBUG 
